@@ -1,0 +1,40 @@
+div{
+  width: 200px;
+}
+div :hover{
+  border: 3px solid black;
+}
+
+.first{
+  background-color: red;
+  color: aqua;
+  font-style: italic
+}
+
+.second{
+  background-color: purple;
+  color: white;
+  font-family: monospace;
+  
+}
+.third{
+  background-color: green;
+  color: blue;
+  font-weight: bold;
+  font-style: italic;
+}
+.forth{
+  background-color: brown;
+  color: green;
+  font-weight: lighter;
+}
+.fifth{
+  background-color: pink;
+  color: yellowgreen;
+  font-family:Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
+
+div.terceira{
+  width: 400px;
+}
